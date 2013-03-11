@@ -1,4 +1,5 @@
-razor
+This repo contains the deck and sample code from my Code Camp talk on Razor.
 =====
 
-Powerpoint deck and sample code from Razor tech talk.
+Deck is now available.  Sample code TBD.
+
